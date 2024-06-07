@@ -11,4 +11,3 @@ plt.xlabel("this is X label")
 plt.ylabel("this is Y label")
 plt.title("tut1 is title")
 plt.show()
-# hi i am aakash
