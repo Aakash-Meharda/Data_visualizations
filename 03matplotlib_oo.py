@@ -13,4 +13,3 @@ axes.set_xlabel("this is X label")
 axes.set_ylabel("this is Y label")
 axes.set_title("this is Title")
 plt.show()
-# hi
