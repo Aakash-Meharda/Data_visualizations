@@ -8,8 +8,8 @@ y=x**2
 
 fig = plt.figure()
 
-ax=fig.add_axes([1,1,2,2])
-ax.plot(x,y**2,label='y squared')
+ax=fig.add_axes([0.20,0.20,0.90,0.90])
 ax.plot(x**2,y,label='x squared')
+ax.plot(x**3,y,label='x cubed')
 ax.legend()
 plt.show()
