@@ -6,7 +6,7 @@ import seaborn as sns
 x = np.linspace(1,5,11)
 y=x**2
 
-fig,axes = plt.subplots(nrows=1,ncols=3,figsize=(10,2))
+fig,axes = plt.subplots(nrows=1,ncols=3,figsize=(10,20))
 
 
 axes[0].plot(x,y)
